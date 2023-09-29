@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+ /* eslint-disable no-unused-vars */
 import { useState } from "react";
 import Search from "./components/Search";
 import ListEmojis from "./components/ListEmojis";
